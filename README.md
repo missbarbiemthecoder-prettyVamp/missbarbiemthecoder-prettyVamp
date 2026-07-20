@@ -1,6 +1,7 @@
 ##<div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFD1DC,50:FFB6C1,100:FF8FAB&height=220&section=header&text=Hi,%20I'm%20Barbie%20🎀&fontSize=42&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=The%20Coder%20✨&descAlignY=58&descSize=20" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFD1DC,50:FFB6C1,100:FF8FAB&height=220&section=header&text=Hi,%20I'm%20Barbie%20
+  &fontSize=42&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=The%20Coder%20✨&descAlignY=58&descSize=20" width="100%"/>
 
 <img src="https://readme-typing-svg.demolab.com/?font=Poppins&weight=600&size=22&duration=3000&pause=900&color=FF69B4&center=true&vCenter=true&width=520&height=45&lines=Aspiring+Software+Engineer+%F0%9F%8E%80;Front-End+Designer+%F0%9F%8C%B8;AI+%26+Robotics+Enthusiast+%F0%9F%A4%96;Coquette+Coder+%F0%9F%92%97" alt="Typing SVG" />
 
